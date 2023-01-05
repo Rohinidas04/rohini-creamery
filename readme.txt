@@ -7,7 +7,8 @@ uses buttons, sliders, and drag and drop features to create the batter,
 scoop icecream into a cone/cup, and add toppings. At the end, 
 the user is graded based on accuracy and earns points. 
 The goal of the game is for the user to score a designated number of points
-in an allotted time. 
+in an allotted time. Additional features include individual timers for each customer, varying difficulty based on score, splash screens,
+and a grid view.
 
 
 How to run the project:
@@ -17,6 +18,7 @@ To run the project, you can run the _main.py_ file in the editor.
 Libraries I am using: 
 cmu_112_graphics_openCV 
 tkinter 
+pandas
 
 
 Shortcut comamands:
