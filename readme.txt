@@ -15,10 +15,13 @@ How to run the project:
 To run the project, you can run the _main.py_ file in the editor. 
 
 
-Libraries I am using: 
+Libraries used: 
 cmu_112_graphics_openCV 
 tkinter 
 pandas
+
+Languages used: 
+Python
 
 
 Shortcut comamands:
